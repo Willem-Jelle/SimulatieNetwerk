@@ -89,6 +89,7 @@ function initSigma(config) {
 
 
     dataReady = function() {//This is called as soon as data is loaded
+	    	a.clusterTitles = {};
 		a.clusters = {};
 
 		a.iterNodes(
