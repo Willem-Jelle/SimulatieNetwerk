@@ -5,21 +5,21 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Willem-Jelle Westra"
   },
   "text": {
-    "more": "",
-    "intro": "",
+    "more": "Simulatie van een gevisualiseerde netwerk- en kennisorganisatie.",
+    "intro": "Simulatie van een gevisualiseerde netwerk- en kennisorganisatie.",
     "title": "Simulatie netwerk"
   },
   "legend": {
     "edgeLabel": "Verbinding",
-    "colorLabel": "",
+    "colorLabel": "Discipline",
     "nodeLabel": "Persoon"
   },
   "features": {
-    "search": true,
-    "groupSelectorAttribute": false,
+    "search": false,
+    "groupSelectorAttribute": "soort",
     "hoverBehavior": "default"
   },
   "informationPanel": {
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "horizontal",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
