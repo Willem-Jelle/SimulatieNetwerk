@@ -1,3 +1,5 @@
+var groupNames = ['Letteren','Beeldende Kunst','Film/AV','Theater','Dans','Architectuur','Muziek','Digitale Kunst','Kunstloc Brabant-medewerker'];
+
 var sigInst, canvas, $GP
 
 //Load configuration file
