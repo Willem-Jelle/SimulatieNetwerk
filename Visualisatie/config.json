@@ -4,7 +4,7 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
+    "link": "https://willem-jelle.github.io/SimulatieNetwerk/Visualisatie/",
     "text": "Willem-Jelle Westra"
   },
   "text": {
@@ -28,7 +28,6 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeColor": "#000",
       "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
