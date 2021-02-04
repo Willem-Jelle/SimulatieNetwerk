@@ -8,8 +8,8 @@
     "text": "Willem-Jelle Westra"
   },
   "text": {
-    "more": "Simulatie van een gevisualiseerde netwerk- en kennisorganisatie.",
-    "intro": "Simulatie van een gevisualiseerde netwerk- en kennisorganisatie.",
+    "more": "Simulatie van een gevisualiseerde netwerk- en kennisorganisatie. Versie 1.0, laatste update: 04-02-2020, 09:32.",
+    "intro": "Simulatie van een gevisualiseerde netwerk- en kennisorganisatie. Versie 1.0, laatste update: 04-02-2020, 09:32. ",
     "title": "Simulatie kennis en netwerk"
   },
   "legend": {
@@ -18,7 +18,7 @@
     "nodeLabel": "Persoon"
   },
   "features": {
-    "search": false,
+    "search": true,
     "groupSelectorAttribute": "soort",
     "hoverBehavior": "dim"
   },
